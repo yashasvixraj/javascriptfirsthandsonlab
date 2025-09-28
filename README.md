@@ -1,2 +1,2 @@
-# javascriptfirsthandsonlab
-My first hands on lab on javascript from fullstack developer course of IBM.
+# employeeinformation.handson
+Hands-on Lab: Display Employee Information using Array Methods
